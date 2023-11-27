@@ -135,4 +135,5 @@ while True:
     - start screen
     - game over screen
     - targets get increasingly cracked per hit
+    - charge GUI and player icon change upon game over
     '''
